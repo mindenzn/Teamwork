@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.main-background {
+    background-image: url("https://nuotraukos.mediakatalogas.lt/rsynced_images/barn-326534_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 910px;
+    position: relative;
+
+}
+.navigation-ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 25px 0;
+}
+
+.navigation-list {
+    border: 1px solid gray;
+    background: rgba(128,128,128,0.7);
+    width: 250px;
+    text-align: center;
+    padding: 15px 0;
+    border-radius: 25px;
+    text-decoration: none;
+    list-style: none;
+    font: bold 25px  Verdana;
+    color: black;
+    text-shadow: 1px 1px 15px yellow;
+    cursor: pointer;
+}
+.title-text{
+    position: relative;
+    top: 130px;
+    text-align: center;
+    font: bold 80px "Comic Sans MS";
+    text-shadow: 1px 1px 15px yellow;
+}
+
+.chicken-gif {
+    position: absolute;
+    top: 580px;
+    left: 200px;
+    width: 350px;
+    height: 350px;
+    object-fit: contain;
+}
