@@ -35,8 +35,9 @@ if ($names == 1) {
     <h1 class="title-text"> We are Vištidė ir Minde</h1>
     <div class="chicken-gif"></div>
     <div class="rooster-gif"></div>
-    <p class="random-name-text">Šiuo metu laisvas kiaušrakulas: <span
-                class="random-name-bold"><?php print $name ;?></span></p>
+    <p class="random-name-text">Šiuo metu laisvas kiaušrakulas:
+        <span class="random-name-bold"><?php print $name; ?></span>
+    </p>
 </main>
 </body>
 </html>
