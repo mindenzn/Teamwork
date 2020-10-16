@@ -15,7 +15,7 @@ $random_answer = $answers[mt_rand(0, sizeof($answers) - 1)];
     <title>Kiaušrakulas</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body class="body-oracul-egg">
+<body class="body-oracule-egg">
 <header>
     <nav class="navigation">
         <ul class="navigation-ul">
@@ -27,9 +27,9 @@ $random_answer = $answers[mt_rand(0, sizeof($answers) - 1)];
     </nav>
 </header>
 <main class="egg-main">
-<h1 class="title-kiausrakulas">KIAUŠRAKULAS</h1>
-<div class='oracul-egg'></div>
-<span class='oracul-answer'><?php print $random_answer; ?></span>
+    <h1 class="egg-title-text">KIAUŠRAKULAS</h1>
+    <div class='oracule-egg'></div>
+    <span class='oracule-answer'><?php print $random_answer; ?></span>
 </main>
 </body>
 </html>

@@ -32,7 +32,7 @@ if ($names == 1) {
     </nav>
 </header>
 <main>
-    <h1 class="title-text"> We are Vištidė ir Minde</h1>
+    <h1 class="title-text"> We are "Višty-ydė ir Minde"</h1>
     <div class="chicken-gif"></div>
     <div class="rooster-gif"></div>
     <p class="random-name-text">Šiuo metu laisvas kiaušrakulas:
