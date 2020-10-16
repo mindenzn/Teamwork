@@ -21,10 +21,10 @@ $random_name = $names[mt_rand(0, sizeof($names) - 1)];
 <header>
     <nav class="navigation">
         <ul class="navigation-ul">
-            <li class="navigation-list">Home<a href="teamwork.lt"></a></li>
-            <li class="navigation-list">Kiaušrakulas<a href="teamwork.lt/kiausrakulas.php"></a></li>
-            <li class="navigation-list">About<a href="teamwork.lt/about.php"></a></li>
-            <li class="navigation-list">Contact<a href="teamwork.lt/contact.php"></a></li>
+            <li class="navigation-list"><a class="navigation-a" href="#">Home</a></li>
+            <li class="navigation-list"><a class="navigation-a" href="/kiausrakulas.php">Kiaušrakulas</a></li>
+            <li class="navigation-list"><a class="navigation-a" href="/about.php">About</a></li>
+            <li class="navigation-list"><a class="navigation-a" href="/contact.php">Contact</a></li>
         </ul>
     </nav>
 </header>

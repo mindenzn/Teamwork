@@ -1,7 +1,7 @@
 <?php
     $story = array(
         "the chickens met the Minde and everything was jolly",
-        "the chicks were going put of town and saw Minde and decided to build a chicken coop for parties",
+        "ze chicks were going put of town and saw Minde and decided to build a chicken coop for parties",
         "the chicks had the best party and tequilla in the backyard and all the chicks get down in the yard, and damn right - it is better than yours, and daamn righ, we have Minde!"
     );
     
@@ -12,7 +12,7 @@
     if($time_left_s === 0){
         $random_story;
     }
-    
+    $background_image_rand = rand(1, 2);
     
 
 ?>
@@ -23,19 +23,21 @@
     <title>About</title>
     <link rel="stylesheet" href="style.css">
 </head>
-<body>
-    <nav>
-        <ul>
-            <li>Home<a href="teamwork.lt"></a></li>
-            <li>Kiaušrakulas<a href="teamwork.lt/kiausrakulas.php"></a></li>
-            <li>About<a href="teamwork.lt/about.php"></a></li>
-            <li>Contact<a href="teamwork.lt/contact.php"></a></li>
-        </ul>
-    </nav>
-    <h1>We are Vištidė ir Mindė</h1>
-    <h2>How it works...</h2>
-    <p><?php print $random_story; ?></p>
-    <p><?php print $time_left_s; ?></p>
+<body class="background_img_contacts<?php print $background_image_rand ?>">
+    <header>
+        <nav class="navigation">
+            <ul class="navigation-ul">
+                <li class="navigation-list"><a class="navigation-a" href="/index.php">Home</a></li>
+                <li class="navigation-list"><a class="navigation-a" href="/kiausrakulas.php">Kiaušrakulas</a></li>
+                <li class="navigation-list"><a class="navigation-a" href="/about.php">About</a></li>
+                <li class="navigation-list"><a class="navigation-a" href="/contact.php">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <h1 class="title-text">We are Vištidė ir Mindė</h1>
+    <h2 class="title-text">How it works...</h2>
+    <p class="title-para"><?php print $random_story; ?></p>
+    <p class="title-para"><?php print $time_left_s; ?></p>
     
     
 </body>
