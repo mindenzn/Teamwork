@@ -1,7 +1,7 @@
 <?php
     $story = array(
         "the chickens met the Minde and everything was jolly",
-        "ze chicks were going put of town and saw Minde and decided to build a chicken coop for parties",
+        "the chicks were going put of town and saw Minde and decided to build a chicken coop for parties",
         "the chicks had the best party and tequilla in the backyard and all the chicks get down in the yard, and damn right - it is better than yours, and daamn righ, we have Minde!"
     );
     
@@ -27,7 +27,7 @@
     <nav>
         <ul>
             <li>Home<a href="teamwork.lt"></a></li>
-            <li>Kiausrakulas<a href="teamwork.lt/kiausrakulas.php"></a></li>
+            <li>Kiaušrakulas<a href="teamwork.lt/kiausrakulas.php"></a></li>
             <li>About<a href="teamwork.lt/about.php"></a></li>
             <li>Contact<a href="teamwork.lt/contact.php"></a></li>
         </ul>
