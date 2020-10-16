@@ -1,11 +1,14 @@
 <?php
-$names = array(
-    'Minde',
-    'Sigis',
-    'Aistė',
-    'Agnė',
-);
-$random_name = $names[mt_rand(0, sizeof($names) - 1)];
+$names = rand(1, 4);
+if ($names == 1) {
+    $name = 'Minde';
+} elseif ($names == 2) {
+    $name = 'Sigis';
+} elseif ($names == 3) {
+    $name = 'Aiste';
+} elseif ($names == 4) {
+    $name = 'Agne';
+}
 ?>
 <!doctype html>
 <html lang="en">
@@ -33,7 +36,7 @@ $random_name = $names[mt_rand(0, sizeof($names) - 1)];
     <img class="chicken-gif" src="https://i.pinimg.com/originals/ee/32/c1/ee32c1af78ec63ebb7760f979de567aa.gif" alt="">
     <img class="rooster-gif" src="https://img1.picmix.com/output/stamp/normal/5/6/6/2/292665_760d0.gif" alt="">
     <p class="random-name-text">Šiuo metu laisvas kiaušrakulas: <span
-                class="random-name-bold"><?php print $random_name ?></span></p>
+                class="random-name-bold"><?php print $name ;?></span></p>
 </main>
 </body>
 </html>

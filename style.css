@@ -155,7 +155,7 @@
     background-image: url('https://www.freepnglogos.com/uploads/egg-png/download-egg-png-transparent-image-and-clipart-33.png');
     width: 800px;
     height: 800px;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     display: flex;
