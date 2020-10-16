@@ -5,11 +5,9 @@ $story = array(
     "the chicks had the best party and tequilla in the backyard and all the chicks get down in the yard,
     and damn right - it is better than yours, and daamn righ, we have Minde!"
 );
-
 $random_story = $story[mt_rand(0, sizeof($story) - 1)];
 
-$time_left_s = 10 - (date('s') % 10);
-
+$time_left_s = 10 - (date('s') % 6);
 if ($time_left_s === 0) {
     print $random_story;
 }
