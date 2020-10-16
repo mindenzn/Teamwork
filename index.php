@@ -5,9 +5,9 @@ if ($names == 1) {
 } elseif ($names == 2) {
     $name = 'Sigis';
 } elseif ($names == 3) {
-    $name = 'Aiste';
+    $name = 'Aistė';
 } elseif ($names == 4) {
-    $name = 'Agne';
+    $name = 'Agnė';
 }
 ?>
 <!doctype html>
