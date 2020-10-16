@@ -33,8 +33,8 @@ if ($names == 1) {
 </header>
 <main>
     <h1 class="title-text"> We are Vištidė ir Minde</h1>
-    <img class="chicken-gif" src="https://i.pinimg.com/originals/ee/32/c1/ee32c1af78ec63ebb7760f979de567aa.gif" alt="">
-    <img class="rooster-gif" src="https://img1.picmix.com/output/stamp/normal/5/6/6/2/292665_760d0.gif" alt="">
+    <div class="chicken-gif"></div>
+    <div class="rooster-gif"></div>
     <p class="random-name-text">Šiuo metu laisvas kiaušrakulas: <span
                 class="random-name-bold"><?php print $name ;?></span></p>
 </main>
