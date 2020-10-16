@@ -21,7 +21,7 @@
 
 .navigation-list {
     border: 1px solid gray;
-    background: rgba(128,128,128,0.7);
+    background: rgba(128,128,128,0.8);
     width: 250px;
     text-align: center;
     padding: 15px 0;
@@ -32,6 +32,12 @@
     color: black;
     text-shadow: 1px 1px 15px yellow;
     cursor: pointer;
+    transition: 0.3s;
+}
+.navigation-list:hover{
+    transition: 0.3s;
+    transform: translateY(4px);
+
 }
 .title-text{
     position: relative;
@@ -58,5 +64,20 @@
     object-fit: contain;
 }
 .random-name-text{
-
+    position: absolute;
+    top: 480px;
+    transform: rotate(10deg);
+    right: 390px;
+    display:block;
+    text-align: center;
+    width: 400px;
+    background: rgba(128,128,128,0.8);
+    padding: 35px;
+    border: 2px solid black;
+    font:20px Verdana;
+    border-radius: 70px 70px 0 70px;
+}
+.random-name-bold{
+    font: bold 25px Verdana;
+    text-shadow: 1px 1px 15px yellow;
 }
