@@ -12,6 +12,7 @@ $random_answer = $answers[mt_rand(0, sizeof($answers) - 1)];
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="5">
     <title>Kiaušrakulas</title>
     <link rel="stylesheet" href="style.css">
 </head>

@@ -10,6 +10,7 @@ $background_image_rand = rand(1, 2);
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="5">
     <title>Contact</title>
     <link rel="stylesheet" href="style.css">
 </head>

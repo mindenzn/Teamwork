@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30638fd0-0163-4c5d-bc1e-242a9c1889d0" name="Default Changelist" comment="Pataisyta About page body clase">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="30638fd0-0163-4c5d-bc1e-242a9c1889d0" name="Default Changelist" comment="Bandziau pataisyti About page 10sec logika">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,9 @@
       <updated>1602840931094</updated>
       <workItem from="1602840932253" duration="204000" />
       <workItem from="1602855783968" duration="5273000" />
-      <workItem from="1602864486530" duration="1158000" />
+      <workItem from="1602864486530" duration="1178000" />
+      <workItem from="1602865829456" duration="683000" />
+      <workItem from="1602921092232" duration="125000" />
     </task>
     <task id="LOCAL−00001" summary="Kiausrakulas page pakeistas paparstas egg i golden egg, viskas istabinta,&#10;istrintos nereikalingos klases, pakeista egg posicija, posicionuotas background, pakeistas background dydis&#10;&#10;Contact page contaktams uzdetas border pakeistas sriftas viskas istabinta&#10;numeriai sudeti i &lt;span&gt;, pakeistas background dydis.&#10;&#10;About viskas istabinta pakeista tittle class&#10;&#10;index viskas istabinta&#10;&#10;style.css suvenodintas style aprasymas istrintos nenaudojamos klases viskas istabinta">
       <created>1602861056109</created>
@@ -85,7 +86,13 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1602864870802</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Bandziau pataisyti About page 10sec logika">
+      <created>1602865660734</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1602865660734</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,17 +114,18 @@
     <MESSAGE value="Kiausrakulas page pakeistas paparstas egg i golden egg, viskas istabinta,&#10;istrintos nereikalingos klases, pakeista egg posicija, posicionuotas background, pakeistas background dydis&#10;&#10;Contact page contaktams uzdetas border pakeistas sriftas viskas istabinta&#10;numeriai sudeti i &lt;span&gt;, pakeistas background dydis.&#10;&#10;About viskas istabinta pakeista tittle class&#10;&#10;index viskas istabinta&#10;&#10;style.css suvenodintas style aprasymas istrintos nenaudojamos klases viskas istabinta" />
     <MESSAGE value="Pataisytos contact page clases is '_' i '-'" />
     <MESSAGE value="Pataisyta About page body clase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pataisyta About page body clase" />
+    <MESSAGE value="Bandziau pataisyti About page 10sec logika" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bandziau pataisyti About page 10sec logika" />
   </component>
   <component name="WindowStateProjectService">
     <state x="642" y="404" width="584" height="204" key="Github.ShareDialog" timestamp="1602840972588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="642" y="404" width="584" height="204" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602840972588" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602864872257">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602865662447">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602864872257" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602865662447" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1602858768044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
