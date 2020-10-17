@@ -11,7 +11,7 @@ $time_left_s = 10 - (date('s') % 6);
 if ($time_left_s === 0) {
     print $random_story;
 }
-$background_image_rand = rand(1, 2);
+$bg_img_rand = rand(1, 2);
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -21,7 +21,7 @@ $background_image_rand = rand(1, 2);
     <meta http-equiv="refresh" content="1">
     <link rel="stylesheet" href="style.css">
 </head>
-<body class="background-img-contacts<?php print $background_image_rand; ?>">
+<body class="background-img-about<?php print $bg_img_rand; ?>">
 <header>
     <nav class="navigation">
         <ul class="navigation-ul">

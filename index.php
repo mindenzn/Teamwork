@@ -14,7 +14,7 @@ if ($names == 1) {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="5">
+    <meta http-equiv="refresh" content="3">
     <title>TeamWork</title>
     <link rel="stylesheet" href="style.css">
 </head>

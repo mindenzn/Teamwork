@@ -10,7 +10,7 @@ $background_image_rand = rand(1, 2);
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="5">
+    <meta http-equiv="refresh" content="3">
     <title>Contact</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -50,6 +50,7 @@ $background_image_rand = rand(1, 2);
                 <span>Sigis: +370<?php print $random_number_Sigis; ?></span>
             </li>
         </ul>
+        <div class="contacts-line"></div>
     </section>
 </main>
 </body>

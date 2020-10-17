@@ -107,6 +107,22 @@
     text-shadow: 1px 1px 15px yellow;
 }
 
+.background-img-about1 {
+    background-image: url("https://media.istockphoto.com/photos/portrait-of-a-funny-chickens-closeup-isolated-on-white-background-picture-id1215945079?k=6&m=1215945079&s=170667a&w=0&h=DT3dup4tPCLljMFMViZ1KPqWGLBNo1hxxu7BMVy-wOw=");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 910px;
+}
+
+.background-img-about2 {
+    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/an-isolated-tray-of-eggs-from-recycled-materials-with-white-eggs-on-a-white-background-top-view-peter-pike.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 910px;
+}
+
 /*Style for contacts*/
 
 .background-img-contacts1 {
@@ -135,10 +151,11 @@
 .list-contacts {
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     font: 20px Verdana;
     text-align: center;
     margin-bottom: 40px;
+    z-index: 10;
 }
 
 .photo-img {
@@ -147,14 +164,27 @@
     border: 1px solid black;
     width: 100px;
     height: 100px;
-    box-shadow: 1px 1px 20px 5px black;
+    box-shadow: 1px 1px 15px 5px black;
+    z-index: 10;
 }
 
 .contacts-container {
+    position: relative;
     display: flex;
     justify-content: center;
     flex-direction: column;
     align-items: center;
+}
+
+.contacts-line {
+    position: absolute;
+    height: 400px;
+    width: 4px;
+    background-color: black;
+    top: 250px;
+    left: 44.2%;
+    z-index: 0;
+    box-shadow: 1px 1px 15px 5px black;
 }
 
 /* Style for  Kiausrakulas*/
