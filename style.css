@@ -206,10 +206,10 @@
 }
 
 .oracule-egg {
-    background-image: url('https://lh3.googleusercontent.com/proxy/97lnNmXeruhkOE6eHQUJaMVGRVNDBVpWY4NCaK6a3ZjlzYvUWJYOmW26IjML5tNEynwRmAMMY0vHOVQuIE51I9Ql1Djr-K_bu2zLrZnBest62SjL');
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/84dc13b7-a2e7-4b45-83ec-311e72e82900/dctdn1d-0dba8b10-2f0e-46ee-9cbc-8505f8d402cf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvODRkYzEzYjctYTJlNy00YjQ1LTgzZWMtMzExZTcyZTgyOTAwXC9kY3RkbjFkLTBkYmE4YjEwLTJmMGUtNDZlZS05Y2JjLTg1MDVmOGQ0MDJjZi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.GMGOPNOQcq7O0lH94tQ8SUum6TYi9pLUiQQmvU-Vkeo');
     width: 500px;
     height: 500px;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     position: absolute;

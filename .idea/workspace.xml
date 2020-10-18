@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30638fd0-0163-4c5d-bc1e-242a9c1889d0" name="Default Changelist" comment="Is index/php istrinti nereikalingi meta tag, visiem page uzdetas auto refresh page kas 5 sec, autoresfresh page 1s nustatyta About page">
+    <list default="true" id="30638fd0-0163-4c5d-bc1e-242a9c1889d0" name="Default Changelist" comment="About page pakeisti skirtingi bg img">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +67,8 @@
       <workItem from="1602855783968" duration="5273000" />
       <workItem from="1602864486530" duration="1178000" />
       <workItem from="1602865829456" duration="683000" />
-      <workItem from="1602921092232" duration="2201000" />
+      <workItem from="1602921092232" duration="2503000" />
+      <workItem from="1603038446750" duration="2204000" />
     </task>
     <task id="LOCAL−00001" summary="Kiausrakulas page pakeistas paparstas egg i golden egg, viskas istabinta,&#10;istrintos nereikalingos klases, pakeista egg posicija, posicionuotas background, pakeistas background dydis&#10;&#10;Contact page contaktams uzdetas border pakeistas sriftas viskas istabinta&#10;numeriai sudeti i &lt;span&gt;, pakeistas background dydis.&#10;&#10;About viskas istabinta pakeista tittle class&#10;&#10;index viskas istabinta&#10;&#10;style.css suvenodintas style aprasymas istrintos nenaudojamos klases viskas istabinta">
       <created>1602861056109</created>
@@ -101,7 +100,13 @@
       <option name="presentableId" value="LOCAL−00005" />
       <updated>1602921386214</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL−00006" summary="About page pakeisti skirtingi bg img">
+      <created>1602923602981</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1602923602981</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,17 +130,18 @@
     <MESSAGE value="Pataisyta About page body clase" />
     <MESSAGE value="Bandziau pataisyti About page 10sec logika" />
     <MESSAGE value="Is index/php istrinti nereikalingi meta tag, visiem page uzdetas auto refresh page kas 5 sec, autoresfresh page 1s nustatyta About page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Is index/php istrinti nereikalingi meta tag, visiem page uzdetas auto refresh page kas 5 sec, autoresfresh page 1s nustatyta About page" />
+    <MESSAGE value="About page pakeisti skirtingi bg img" />
+    <option name="LAST_COMMIT_MESSAGE" value="About page pakeisti skirtingi bg img" />
   </component>
   <component name="WindowStateProjectService">
     <state x="642" y="404" width="584" height="204" key="Github.ShareDialog" timestamp="1602840972588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="642" y="404" width="584" height="204" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602840972588" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602921411751">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602923604204">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602921411751" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602923604204" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1602858768044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
