@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30638fd0-0163-4c5d-bc1e-242a9c1889d0" name="Default Changelist" comment="About page pakeisti skirtingi bg img">
+    <list default="true" id="30638fd0-0163-4c5d-bc1e-242a9c1889d0" name="Default Changelist" comment="vel poakeistas kiausiniu paveiksliukas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -69,6 +68,8 @@
       <workItem from="1602865829456" duration="683000" />
       <workItem from="1602921092232" duration="2503000" />
       <workItem from="1603038446750" duration="2204000" />
+      <workItem from="1603040684337" duration="78000" />
+      <workItem from="1603087290314" duration="1504000" />
     </task>
     <task id="LOCAL−00001" summary="Kiausrakulas page pakeistas paparstas egg i golden egg, viskas istabinta,&#10;istrintos nereikalingos klases, pakeista egg posicija, posicionuotas background, pakeistas background dydis&#10;&#10;Contact page contaktams uzdetas border pakeistas sriftas viskas istabinta&#10;numeriai sudeti i &lt;span&gt;, pakeistas background dydis.&#10;&#10;About viskas istabinta pakeista tittle class&#10;&#10;index viskas istabinta&#10;&#10;style.css suvenodintas style aprasymas istrintos nenaudojamos klases viskas istabinta">
       <created>1602861056109</created>
@@ -106,7 +107,13 @@
       <option name="presentableId" value="LOCAL−00006" />
       <updated>1602923602981</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL−00007" summary="vel poakeistas kiausiniu paveiksliukas">
+      <created>1603040697287</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1603040697287</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,17 +138,22 @@
     <MESSAGE value="Bandziau pataisyti About page 10sec logika" />
     <MESSAGE value="Is index/php istrinti nereikalingi meta tag, visiem page uzdetas auto refresh page kas 5 sec, autoresfresh page 1s nustatyta About page" />
     <MESSAGE value="About page pakeisti skirtingi bg img" />
-    <option name="LAST_COMMIT_MESSAGE" value="About page pakeisti skirtingi bg img" />
+    <MESSAGE value="vel poakeistas kiausiniu paveiksliukas" />
+    <option name="LAST_COMMIT_MESSAGE" value="vel poakeistas kiausiniu paveiksliukas" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603092604354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603092604354" />
     <state x="642" y="404" width="584" height="204" key="Github.ShareDialog" timestamp="1602840972588">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="642" y="404" width="584" height="204" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602840972588" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602923604204">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603040720295">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1602923604204" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1603040720295" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1602858768044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
